@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\gimpu\Desktop\lab3-27.04\Files processing\Files processing\FileFactory.h(11,2): warning C4091: 'static ': ignored on left of 'FileFactory' when no variable is declared
+  Files processing.vcxproj -> C:\Users\gimpu\Desktop\lab3-27.04\Files processing\Debug\Files processing.exe
